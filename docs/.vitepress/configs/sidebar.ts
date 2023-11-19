@@ -14,7 +14,7 @@ export const sidebar =  {
       {
         text: '',
         items: [
-          // { text: '', link: '' },
+          { text: 'Sass/SCSS', link: '/frontend/sass-scss' },
         ]
       }
     ]

@@ -15,7 +15,7 @@ export default defineConfig({
     nav,
     sidebar,
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Joy801018' }
+      { icon: 'github', link: 'https://github.com/joyxie1018' }
     ],
     footer: {
       copyright: 'MIT Lincensed | Copyright © 2023-present JoyXie',

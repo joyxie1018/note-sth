@@ -10,6 +10,6 @@ features:
   - title: 後端
     link: backend/decorator-design
   - title: 前端
-    link: frontend/empty
+    link: frontend/sass-scss
 ---
 

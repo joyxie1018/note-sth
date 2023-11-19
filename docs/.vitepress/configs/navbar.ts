@@ -10,6 +10,11 @@ export const nav = [
   },
   {
     text: '前端',
-    link: '/frontend/empty'
+    items: [
+      {
+        text: 'Sass/SCSS',
+        link: '/frontend/sass-scss'
+      }
+    ]
   }
 ]
