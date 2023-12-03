@@ -12,7 +12,7 @@ export const nav = [
     text: '前端',
     items: [
       {
-        text: 'Sass/SCSS',
+        text: 'CSS',
         link: '/frontend/sass-scss'
       }
     ]
