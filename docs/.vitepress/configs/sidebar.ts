@@ -12,7 +12,7 @@ export const sidebar =  {
     // ========== 前端 ===========
     '/frontend/': [
       {
-        text: '',
+        text: 'CSS',
         items: [
           { text: 'Sass/SCSS', link: '/frontend/sass-scss' },
         ]
