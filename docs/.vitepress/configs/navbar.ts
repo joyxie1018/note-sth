@@ -16,5 +16,14 @@ export const nav = [
         link: '/frontend/sass-scss'
       }
     ]
+  },
+  {
+    text: '其他',
+    items: [
+      {
+        text: 'GitHub',
+        link: '/others/github-pages'
+      }
+    ]
   }
 ]

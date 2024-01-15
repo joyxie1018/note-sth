@@ -11,5 +11,7 @@ features:
     link: backend/decorator-design
   - title: 前端
     link: frontend/sass-scss
+  - title: 其他
+    link: others/github-pages
 ---
 

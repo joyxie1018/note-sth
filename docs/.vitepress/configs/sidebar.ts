@@ -17,5 +17,16 @@ export const sidebar =  {
           { text: 'Sass/SCSS', link: '/frontend/sass-scss' },
         ]
       }
+    ],
+
+    // ========== 前端 ===========
+    '/others/': [
+      {
+        text: 'github',
+        items: [
+          { text: 'GitHub Pages', link: '/others/github-pages' },
+          { text: 'GitHub Actions', link: '/others/github-actions' },
+        ]
+      }
     ]
   }
